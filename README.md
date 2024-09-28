@@ -11,7 +11,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mukinma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Mukinma&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukinma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -104,9 +103,5 @@
 <div align="center">
   <img height="180" src="https://st1.uvnimg.com/dims4/default/4c61d8a/2147483647/thumbnail/480x270/quality/75/format/jpg/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Fbtg%2Fmoomin_.gif"  />
 </div>
-
-###
-
-<br clear="both">
 
 ###
