@@ -109,6 +109,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mukinma/Mukinma/output/snake.svg" alt="Snake animation" />
-
 ###
