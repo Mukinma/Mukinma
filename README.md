@@ -43,6 +43,17 @@ I like projects where design and engineering are not separated. A good system sh
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>FilaCero</h3>
+      <p><strong>Modern POS for school cafeterias.</strong></p>
+      <p>Student led platform created to reduce cafeteria congestion through faster sales, orders, inventory and business metrics.</p>
+      <p><strong>Built around:</strong> TypeScript, Next.js, Tailwind CSS, NestJS, Prisma, PostgreSQL, Redis, Docker and monorepo architecture.</p>
+      <p>
+        <a href="https://github.com/TerminaDes2/FilaCero">Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>Virus Attack</h3>
       <p><strong>Educational arcade game with executable build.</strong></p>
       <p>Python and Pygame game focused on learning, progression, visual feedback and complete playable flow.</p>
@@ -51,8 +62,6 @@ I like projects where design and engineering are not separated. A good system sh
         <a href="https://github.com/patomax31/Virus-Attack">Repository</a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>Lira Visual Prototype</h3>
       <p><strong>Digital reading platform prototype.</strong></p>
@@ -62,6 +71,8 @@ I like projects where design and engineering are not separated. A good system sh
         <a href="https://github.com/Mukinma/LiraVisualPrototype">Repository</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>MyDrugs UI Recreation</h3>
       <p><strong>Modern fictional product interface recreation.</strong></p>
@@ -71,58 +82,15 @@ I like projects where design and engineering are not separated. A good system sh
         <a href="https://github.com/Mukinma/MyDrugs">Repository</a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>Spotify Frontend Training</h3>
-      <p><strong>Frontend practice focused on layout precision.</strong></p>
-      <p>Training project for recreating interface structures, spacing, visual hierarchy and responsive styling.</p>
-      <p><strong>Built around:</strong> TypeScript, Tailwind CSS, component thinking and frontend fundamentals.</p>
+      <h3>Paz Justicia Blog</h3>
+      <p><strong>Dynamic web blog with admin oriented structure.</strong></p>
+      <p>Web project with categorized content, controllers, views, database scripts and server side logic.</p>
+      <p><strong>Built around:</strong> PHP, HTML, CSS, JavaScript, SQL scripts, MVC style organization and content management flow.</p>
       <p>
-        <a href="https://github.com/Mukinma/clon-spotify-frontend-training">Repository</a>
+        <a href="https://github.com/Mukinma/Paz-Justicia-Blog">Repository</a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Python Journey</h3>
-      <p><strong>Structured Python learning repository.</strong></p>
-      <p>Repository documenting progress through Python fundamentals, data handling and programming foundations.</p>
-      <p><strong>Built around:</strong> Python, exercises, documentation, programming logic and learning consistency.</p>
-      <p>
-        <a href="https://github.com/Mukinma/python-journey">Repository</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## More repositories
-
-<table>
-  <tr>
-    <th align="left">Repository</th>
-    <th align="left">Type</th>
-    <th align="left">What it shows</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mukinma/LumiSpace-Reboot">LumiSpace Reboot</a></td>
-    <td>Prototype</td>
-    <td>Product exploration, visual direction and interface experimentation.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mukinma/Swift-Learning-Journal">Swift Learning Journal</a></td>
-    <td>Learning journal</td>
-    <td>Documented learning process and interest in Apple ecosystem development.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mukinma/Paz-Justicia-Blog">Paz Justicia Blog</a></td>
-    <td>Web project</td>
-    <td>PHP based web development, content structure and basic backend practice.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mukinma/deployment_check">Deployment Check</a></td>
-    <td>Utility</td>
-    <td>Small PHP utility work and deployment oriented experimentation.</td>
   </tr>
 </table>
 
@@ -142,13 +110,93 @@ I like projects where design and engineering are not separated. A good system sh
     <td width="33%" valign="top">
       <h3>Backend and data</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=python,fastapi,php,mysql,sqlite,firebase" />
+        <img src="https://skillicons.dev/icons?i=python,fastapi,nestjs,php,mysql,postgres,sqlite,prisma,firebase" />
       </p>
-      <p>APIs, local databases, authentication flows, application logic and data persistence.</p>
+      <p>APIs, local databases, authentication flows, application logic, server side rendering and data persistence.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Systems and tools</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=git,github,linux,bash,figma,blender" />
+        <img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker,figma,blender" />
       </p>
-      <p>Version control, Linux workflows, embe
+      <p>Version control, Linux workflows, embedded experimentation, Docker environments, design tools and visual prototyping.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Languages and foundations
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0B1026?style=for-the-badge&logo=python&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1026?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1026?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0B1026?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-0B1026?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-0B1026?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-0B1026?style=for-the-badge&logo=csharp&logoColor=9B4F96)
+![PHP](https://img.shields.io/badge/PHP-0B1026?style=for-the-badge&logo=php&logoColor=777BB4)
+
+</div>
+
+---
+
+## How I think about software
+
+```txt
+1. Understand the real problem before designing the interface.
+2. Build flows that a real person can use without explanation.
+3. Keep architecture readable enough to maintain and defend.
+4. Make visual decisions with purpose, not decoration.
+5. Treat each project as a product, even when it starts as practice.
+```
+
+---
+
+## Portfolio focus
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <h3>Product</h3>
+      <p>Problem framing, user flows and feature definition.</p>
+    </td>
+    <td width="25%" align="center">
+      <h3>Interface</h3>
+      <p>Visual hierarchy, layout systems and usable screens.</p>
+    </td>
+    <td width="25%" align="center">
+      <h3>Engineering</h3>
+      <p>Readable structure, real features and working systems.</p>
+    </td>
+    <td width="25%" align="center">
+      <h3>Execution</h3>
+      <p>Documentation, polish and complete project presentation.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Current direction
+
+I am improving my portfolio through projects that show more than isolated programming exercises.
+
+My current goal is to keep building projects with stronger product thinking, cleaner UI systems, better documentation and more complete technical execution.
+
+<div align="center">
+
+![Interface Engineering](https://img.shields.io/badge/Interface%20Engineering-0B1026?style=for-the-badge)
+![Gameplay Systems](https://img.shields.io/badge/Gameplay%20Systems-10069F?style=for-the-badge)
+![Embedded Applications](https://img.shields.io/badge/Embedded%20Applications-00A8FF?style=for-the-badge)
+![Product Design](https://img.shields.io/badge/Product%20Design-171B3A?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,45:10069F,100:0B1026&h
