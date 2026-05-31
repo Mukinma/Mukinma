@@ -34,12 +34,12 @@ I like projects where design and engineering are not separated. A good system sh
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Vireom</h3>
+      <h3>Osvium</h3>
       <p><strong>Embedded biometric access control system.</strong></p>
       <p>Facial recognition system designed for Raspberry Pi 5, local processing and restricted area access control.</p>
       <p><strong>Built around:</strong> Python, FastAPI, OpenCV, Haar Cascade, LBPH, SQLite, GPIO, admin panel and offline operation.</p>
       <p>
-        <a href="https://github.com/Mukinma/Vireom">Repository</a>
+        <a href="https://github.com/Mukinma/Osvium">Repository</a>
       </p>
     </td>
     <td width="50%" valign="top">
