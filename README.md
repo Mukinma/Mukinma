@@ -199,4 +199,4 @@ My current goal is to keep building projects with stronger product thinking, cle
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,45:10069F,100:0B1026&h
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,45:10069F,100:0B1026&h">
